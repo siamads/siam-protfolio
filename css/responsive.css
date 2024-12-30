@@ -1,0 +1,154 @@
+@media only screen and (max-width: 1280px){
+    header .head .header-text{
+        padding-left: 7% !important;
+    }
+}
+@media only screen and (max-width: 1193px){
+    .project .gallery .product .itembox{
+        width: 31% !important;
+    }
+}
+@media only screen and (max-width: 1100px){
+    header .head .header-text{
+        padding-left: 2% !important;
+    }
+}
+@media only screen and (max-width: 991px){
+    section{
+        padding: 50px 0px !important;
+    }
+    header .menu .navbar{
+        border-bottom: 1px solid #333333;
+        padding: 0;
+    }
+    header .menu .navbar.offcanvas-header{
+        border-bottom: 1px solid #333333;
+    }
+    header .menu .navbar .container-fluid{
+        padding: 0 0 0 8px !important;
+    }
+    .navbar-toggler:hover{
+        color: #1d1d1d;
+    }
+	.navbar-toggler, .navbar-toggler:focus{
+		color: white;
+		box-shadow: none;
+        padding: 5px 12px;
+        height: 70px;
+        width: 70px;
+		border: 0;
+		border-radius: 0px;
+        background: #1d1d1d;
+	}
+    .offcanvas-header{
+        border-bottom: 1px solid #1d1d1d;
+        padding: 0;
+    }
+    .offcanvas-header .nav-btn-close{
+        border: 0;
+        outline: 0;
+        padding:2px 10px;
+        height: 50px;
+        width: 50px;
+		border-radius: 0px;
+        box-shadow: none;
+        color: white;
+        background: #1d1d1d;
+    }
+    header .menu .navbar .nav-item .nav-link {
+        font-size: 25px !important;
+    }
+    .project .gallery .product .itembox {
+        height: 265px !important;
+    }
+}
+@media only screen and (max-width: 880px){
+    header .head .header-text{
+        padding-left: 12px !important;
+    }
+    header .head .header-text h1{
+        font-size: 67px !important;
+    }
+    .project .gallery .product .itembox {
+        height: 340px !important;
+        width: 47% !important;
+    }
+}
+@media only screen and (max-width: 767px){
+    header .head .header-text {
+        margin-top: 30px !important;
+    }
+    header .head .header-img {
+        text-align: center;
+    }
+    .my-score .score{
+        border-right: none !important;
+        border-bottom: 1px solid #c2c2c2;
+    }
+    .my-score .br-none{
+        border-bottom: none !important;
+    }
+    .project .gallery .product {
+        justify-content: center;
+    }
+    .project .gallery .product .itembox {
+        height: 310px !important;
+        width: 47% !important;
+    }
+    .testimonial .testimonial-slider .owl-nav .owl-next {
+        background: white !important;
+        right: -1% !important;
+    }
+    .testimonial .testimonial-slider .owl-nav .owl-prev {
+        background: white !important;
+        left: -1% !important;
+    }
+}
+@media only screen and (max-width: 690px){
+    .project .gallery .product .itembox {
+        height: 270px !important;
+        width: 46% !important;
+    }
+}
+@media only screen and (max-width: 609px){
+    .project .gallery .product .itembox {
+        height: 240px !important;
+        width: 46% !important;
+    }
+}
+@media only screen and (max-width: 540px){
+    .project .gallery .product .itembox {
+        height: 340px !important;
+        width: 74% !important;
+    }
+    
+    .footer .copyright {
+        justify-content: center !important;
+        flex-wrap: wrap !important;
+        flex-direction: column-reverse !important;
+    }
+    .contact form {
+        padding: 5% !important;
+    }
+}
+@media only screen and (max-width: 470px){
+    .project .gallery .product .itembox {
+        height: 340px !important;
+        width: 85% !important;
+    }
+}
+@media only screen and (max-width: 430px){
+    .project .gallery .product .itembox {
+        height: 340px !important;
+        width: 100% !important;
+    }
+    .contact form {
+        padding: 0% !important;
+    }
+}
+@media only screen and (max-width: 390px){
+    .project .gallery .product .itembox {
+        height: 295px !important;
+        width: 100% !important;
+    }
+}
